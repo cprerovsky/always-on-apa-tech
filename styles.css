@@ -8,6 +8,11 @@ html, body {
     justify-content: center;
 }
 
+.left {
+	display: flex;
+	justify-content: left;
+}
+
 .subscribe {
 	display: block;
 	background-color: #000000;
