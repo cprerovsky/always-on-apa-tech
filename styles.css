@@ -5,7 +5,11 @@ html, body {
 
 .center {
     display: flex;
-    justify-content: center;
+	justify-content: center;
+}
+
+.center .subscribe:last-child {
+	margin-right: 0;
 }
 
 .left {
